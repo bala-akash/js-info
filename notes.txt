@@ -1,0 +1,8 @@
+a= {};
+
+a.getUdetId
+
+
+if(a && a.getUserId){
+  
+}
